@@ -4,28 +4,33 @@
   "description": "AI Engineer | Software & Design",
   "sections": [
     {
-      "title": "About Me",
+      "title": "About",
       "type": "text",
-      "content": "AI Engineer passionné par le software, l'IA et le design. Je conçois des produits impactful avec une attention particulière à l'UX. Expertise solide en agentique — contributeur au framework tRPC Agent Go."
+      "content": "AI Engineer passionate about software, AI, and design. I love building impactful products with a strong focus on user experience. I believe technology should be beautiful, intuitive, and meaningful. Solid expertise in agentic AI and contributor to the tRPC Agent Go framework."
     },
     {
-      "title": "Stack",
+      "title": "What I Love",
       "type": "text",
-      "content": "Go • TypeScript • React • Python • Docker • Git • PostgreSQL • Redis • Prometheus • MongoDB • S3 • Figma • Claude Code"
+      "content": "Designing elegant UIs • Building products that matter • Exploring the intersection of AI and design • Creating multi-agent systems • Optimizing developer experience"
+    },
+    {
+      "title": "Skills",
+      "type": "text",
+      "content": "Go • TypeScript • Python • React • Node.js • Docker • Git • PostgreSQL • Redis • MongoDB • Prometheus • S3 • Figma • Claude Code • Deep Learning • Machine Learning • Agentic AI • UI/UX Design"
     },
     {
       "title": "Experience",
       "type": "list",
       "items": [
         {
-          "title": "AI Engineer – Getraline",
-          "description": "Développement des projets IA de l'entreprise. Stack principale : Go et React. Optimisation du workflow avec Claude Code.",
+          "title": "AI Engineer at Getraline",
+          "description": "Developing AI projects for the company.",
           "url": "https://getraline.com",
           "date": "2023–Present"
         },
         {
-          "title": "Contributeur – tRPC Agent Go",
-          "description": "Contribution au framework d'agents IA en Go.",
+          "title": "Contributor to tRPC Agent Go",
+          "description": "Contributing to the agentic AI framework.",
           "url": "https://github.com/trpc-agent-go",
           "date": "2024"
         }
@@ -37,13 +42,13 @@
       "items": [
         {
           "title": "Vetco",
-          "description": "SaaS en production avec 250+ utilisateurs. Révolutionne la prise de notes patients pour les étudiants vétérinaires. Optimise l'étude des cas cliniques et l'organisation des apprentissages.",
+          "description": "SaaS in production with 250+ users. Revolutionizing patient note-taking for veterinary students.",
           "url": "https://github.com/grignolalouis/vetco",
           "date": "2024–Present"
         },
         {
           "title": "Ora",
-          "description": "Plateforme multi-agent fullstack. Portail conversationnel SaaS complet utilisant tRPC Agent Go.",
+          "description": "Fullstack multi-agent conversational SaaS platform.",
           "date": "2024–Present"
         }
       ]
@@ -53,17 +58,12 @@
       "type": "list",
       "items": [
         {
-          "title": "Engineering Degree – ISEP Paris",
-          "description": "Deep Learning, Machine Learning, développement 3D et mobile.",
+          "title": "Engineering Degree at ISEP Paris",
+          "description": "Deep Learning, Machine Learning, 3D and mobile development.",
           "url": "https://www.isep.fr",
           "date": "2021–2026"
         }
       ]
-    },
-    {
-      "title": "Interests",
-      "type": "text",
-      "content": "UX Design • Créer des produits impactful • Concevoir des interfaces intuitives • IA agentique"
     },
     {
       "title": "Connect",
