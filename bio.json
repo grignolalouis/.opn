@@ -1,12 +1,35 @@
 {
   "version": 1,
   "name": "Louis Grignola",
-  "description": "AI Engineer | Design & Code Enthusiast",
+  "description": "AI Engineer | Software & Design",
   "sections": [
     {
       "title": "About Me",
       "type": "text",
-      "content": "I'm an AI Engineer who blends the art of design with the power of code. I believe technology should be beautiful, intuitive, and meaningful. Currently building Vetco, an AI-powered veterinary software to help vet students learn and practice smarter."
+      "content": "AI Engineer passionné par le software, l'IA et le design. Je conçois des produits impactful avec une attention particulière à l'UX. Expertise solide en agentique — contributeur au framework tRPC Agent Go."
+    },
+    {
+      "title": "Stack",
+      "type": "text",
+      "content": "Go • TypeScript • React • Python • Docker • Git • PostgreSQL • Redis • Prometheus • MongoDB • S3 • Figma • Claude Code"
+    },
+    {
+      "title": "Experience",
+      "type": "list",
+      "items": [
+        {
+          "title": "AI Engineer – Getraline",
+          "description": "Développement des projets IA de l'entreprise. Stack principale : Go et React. Optimisation du workflow avec Claude Code.",
+          "url": "https://getraline.com",
+          "date": "2023–Present"
+        },
+        {
+          "title": "Contributeur – tRPC Agent Go",
+          "description": "Contribution au framework d'agents IA en Go.",
+          "url": "https://github.com/trpc-agent-go",
+          "date": "2024"
+        }
+      ]
     },
     {
       "title": "Projects",
@@ -14,15 +37,14 @@
       "items": [
         {
           "title": "Vetco",
-          "description": "AI-integrated veterinary software designed for vet students. Combining machine learning with intuitive UX to revolutionize veterinary education.",
+          "description": "SaaS en production avec 250+ utilisateurs. Révolutionne la prise de notes patients pour les étudiants vétérinaires. Optimise l'étude des cas cliniques et l'organisation des apprentissages.",
           "url": "https://github.com/grignolalouis/vetco",
           "date": "2024–Present"
         },
         {
-          "title": "OPN Resume",
-          "description": "Open-source bio platform for developers and creators.",
-          "url": "https://opn.bio",
-          "date": "2025"
+          "title": "Ora",
+          "description": "Plateforme multi-agent fullstack. Portail conversationnel SaaS complet utilisant tRPC Agent Go.",
+          "date": "2024–Present"
         }
       ]
     },
@@ -32,37 +54,16 @@
       "items": [
         {
           "title": "Engineering Degree – ISEP Paris",
-          "description": "Digital engineering with focus on AI, software development, and system design.",
+          "description": "Deep Learning, Machine Learning, développement 3D et mobile.",
           "url": "https://www.isep.fr",
           "date": "2021–2026"
         }
       ]
     },
     {
-      "title": "Experience",
-      "type": "list",
-      "items": [
-        {
-          "title": "AI Engineer – Freelance",
-          "description": "Building AI solutions and designing user-centric applications.",
-          "date": "2023–Present"
-        },
-        {
-          "title": "Founder – Vetco",
-          "description": "Leading development of AI-powered veterinary education software.",
-          "date": "2024–Present"
-        }
-      ]
-    },
-    {
-      "title": "Skills",
-      "type": "text",
-      "content": "Machine Learning & AI • Python • TypeScript • React • UI/UX Design • Figma • System Architecture • Full-Stack Development"
-    },
-    {
       "title": "Interests",
       "type": "text",
-      "content": "Exploring the intersection of AI and design. Passionate about creating tools that empower people. Always learning, always building."
+      "content": "UX Design • Créer des produits impactful • Concevoir des interfaces intuitives • IA agentique"
     },
     {
       "title": "Connect",
