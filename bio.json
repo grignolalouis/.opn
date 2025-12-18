@@ -6,17 +6,7 @@
     {
       "title": "About",
       "type": "text",
-      "content": "AI Engineer passionate about software, AI, and design. I love building solutions that solve real problems and integrate seamlessly into everyday life. Currently focused on agentic AI challenges."
-    },
-    {
-      "title": "What I Love",
-      "type": "text",
-      "content": "Designing elegant UIs • Building products that matter • Exploring the intersection of AI and design • Creating multi-agent systems • Optimizing developer experience"
-    },
-    {
-      "title": "Skills",
-      "type": "text",
-      "content": "Go • TypeScript • Python • React • Node.js • Docker • Git • PostgreSQL • Redis • MongoDB • Prometheus • S3 • Figma • Claude Code • Deep Learning • Machine Learning • Agentic AI • UI/UX Design"
+      "content": "AI Engineer passionate about software, AI, and design. Currently focused on agentic AI challenges and software development."
     },
     {
       "title": "Experience",
@@ -26,13 +16,13 @@
           "title": "AI Engineer at Getraline",
           "description": "Developing AI projects for the company.",
           "url": "https://getraline.com",
-          "date": "2023–Present"
+          "date": "2024–Present"
         },
         {
           "title": "Contributor to tRPC Agent Go",
           "description": "Contributing to the agentic AI framework.",
           "url": "https://github.com/trpc-agent-go",
-          "date": "2024"
+          "date": "2025"
         }
       ]
     },
@@ -42,14 +32,14 @@
       "items": [
         {
           "title": "Vetco",
-          "description": "SaaS in production with 250+ users. Revolutionizing patient note-taking for veterinary students.",
+          "description": "A saas Revolutionizing patient note-taking for veterinary students.",
           "url": "https://github.com/grignolalouis/vetco",
-          "date": "2024–Present"
+          "date": "2025–Present"
         },
         {
           "title": "Ora",
           "description": "Fullstack multi-agent conversational SaaS platform.",
-          "date": "2024–Present"
+          "date": "2025–Present"
         }
       ]
     },
