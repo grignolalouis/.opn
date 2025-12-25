@@ -6,54 +6,7 @@
     {
       "title": "About",
       "type": "text",
-      "content": "AI Engineer passionate about software, AI, and design. Currently focused on agentic AI challenges and software development."
-    },
-    {
-      "title": "Experience",
-      "type": "list",
-      "items": [
-        {
-          "title": "AI Engineer at Getraline",
-          "description": "Developing AI projects for the company.",
-          "url": "https://getraline.com",
-          "date": "2024–Present"
-        },
-        {
-          "title": "Contributor to tRPC Agent Go",
-          "description": "Contributing to the agentic AI framework.",
-          "url": "https://github.com/trpc-agent-go",
-          "date": "2025"
-        }
-      ]
-    },
-    {
-      "title": "Projects",
-      "type": "list",
-      "items": [
-        {
-          "title": "Vetco",
-          "description": "A saas Revolutionizing patient note-taking for veterinary students.",
-          "url": "https://github.com/grignolalouis/vetco",
-          "date": "2025–Present"
-        },
-        {
-          "title": "Ora",
-          "description": "Fullstack multi-agent conversational SaaS platform.",
-          "date": "2025–Present"
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "type": "list",
-      "items": [
-        {
-          "title": "Engineering Degree at ISEP Paris",
-          "description": "Deep Learning, Machine Learning, 3D and mobile development.",
-          "url": "https://www.isep.fr",
-          "date": "2021–2026"
-        }
-      ]
+      "content": "AI Engineer passionate about software, AI, and design. Currently focused on agentic AI and software development."
     },
     {
       "title": "Connect",
@@ -80,6 +33,6 @@
   ],
   "style": {
     "font": "sans-serif",
-    "theme": "dark"
+    "theme": "light"
   }
 }
